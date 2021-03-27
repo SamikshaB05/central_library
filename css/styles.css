@@ -553,10 +553,10 @@ span.psw {
 /* Change styles for span and cancel button on extra small screens */
 @media (max-width:1026px) {
   #homepage {
-    height: 50vh;
+    height: 40vh;
   }
   .blank-section {
-    height: 50vh;
+    height: 25vh;
   }
   span.psw {
     display: block;
