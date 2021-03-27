@@ -1,9 +1,4 @@
-/* #myVideo {
-  background: url("../images/video.mp4") no-repeat center center fixed;
-  background-size: cover;
-  height: 100vh;
-  z-index: -1;
-}  */
+
 html, body {
   box-sizing: border-box;
   overflow-x: hidden;
@@ -148,6 +143,7 @@ p {
 .books-title hr {
   border-top: 1px solid black;
   width: 20%;
+  margin-left: 50%;
 }
 
 .card {
